@@ -60,7 +60,7 @@ Based in Costa Rica 🇨🇷 | [jdanielb1992@gmail.com](mailto:jdanielb1992@gmai
 
 - 📧 Email: [jdanielb1992@gmail.com](mailto:jdanielb1992@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/jdberrocal1](https://linkedin.com/in/jdberrocal1)  
-- 🧑‍💻 Portfolio: _coming soon?_ (let me know if you want help designing one!)
+- 🧑‍💻 Portfolio: [berrocal.me](https://www.berrocal.me/)
 
 ---
 
