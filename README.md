@@ -1,31 +1,66 @@
-Hi 👋 My name is Daniel Berrocal
-================================
+# 👋 Hi, I'm Daniel Berrocal
 
-Senior Software Engineer
-------------------------
+**Senior Software Engineer • Fullstack Developer • UI Enthusiast**  
+Based in Costa Rica 🇨🇷 | [jdanielb1992@gmail.com](mailto:jdanielb1992@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/jdberrocal1)
+[![GitHub](https://img.shields.io/badge/GitHub-%40jdberrocal1-333?logo=github)](https://github.com/jdberrocal1)
 
-* 🌍  I'm based in Costa Rica
-* ✉️  You can contact me at [jdanielb1992@gmail.com](mailto:jdanielb1992@gmail.com)
-* 🧠  I'm learning Next 14, Mongodb, TailwindCSS, Serverless
+---
 
-### Skills
+🎯 I build clean, performant web apps using **React, TypeScript**, and modern fullstack tools.  
+🛠️ Currently diving deeper into **Next.js, MongoDB, Tailwind CSS**, and **serverless architectures**.  
+💡 Passionate about merging beautiful UI with scalable backend logic.
 
+---
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## 🚀 Featured Projects
 
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧰 Car Workshop Manager | An all-in-one management system for car workshop owners – includes appointments, invoices, and CRM tools. | Next.js, TypeScript, Tailwind, MongoDB |
+| 📄 Mindsync Pages | SaaS platform to create and host high-performance landing pages for clients, powered by custom code blocks. | Next.js, React, Vercel, Tailwind |
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/jdberrocal1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/jdberrocal1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+## 🧠 Tech Stack
 
-### Badges
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white)
 
-<b>My GitHub Stats</b>
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)  
+![Material UI](https://img.shields.io/badge/-MaterialUI-007FFF?logo=mui&logoColor=white)  
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-<a href="http://www.github.com/jdberrocal1"><img src="https://github-readme-stats.vercel.app/api?username=jdberrocal1&show_icons=true&hide=stars,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="jdberrocal1's GitHub stats" /></a>
+**Backend / DB:**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless)
 
-<a href="http://www.github.com/jdberrocal1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jdberrocal1&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-<a href="https://github.com/jdberrocal1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdberrocal1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jdberrocal1&show_icons=true&hide=stars,issues&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jdberrocal1&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdberrocal1&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [jdanielb1992@gmail.com](mailto:jdanielb1992@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/jdberrocal1](https://linkedin.com/in/jdberrocal1)  
+- 🧑‍💻 Portfolio: _coming soon?_ (let me know if you want help designing one!)
+
+---
+
